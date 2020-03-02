@@ -15,10 +15,6 @@ Recognizable List
 </td>
 </tr>
 <tr>
-<td>0</td>
-<td>background</td>
-</tr>
-<tr>
 <td>1</td>
 <td>person</td>
 </tr>
