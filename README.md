@@ -64,7 +64,7 @@ Recognizable List
 </tr>
 <tr>
 <td>12</td>
-<td>None</td>
+<td></td>
 </tr>
 <tr>
 <td>13</td>
@@ -120,7 +120,7 @@ Recognizable List
 </tr>
 <tr>
 <td>26</td>
-<td>None</td>
+<td></td>
 </tr>
 <tr>
 <td>27</td>
@@ -132,11 +132,11 @@ Recognizable List
 </tr>
 <tr>
 <td>29</td>
-<td>None</td>
+<td></td>
 </tr>
 <tr>
 <td>30</td>
-<td>None</td>
+<td></td>
 </tr>
 <tr>
 <td>31</td>
@@ -196,7 +196,7 @@ Recognizable List
 </tr>
 <tr>
 <td>45</td>
-<td>None</td>
+<td></td>
 </tr>
 <tr>
 <td>46</td>
@@ -280,7 +280,7 @@ Recognizable List
 </tr>
 <tr>
 <td>66</td>
-<td>None</td>
+<td></td>
 </tr>
 <tr>
 <td>67</td>
@@ -288,11 +288,11 @@ Recognizable List
 </tr>
 <tr>
 <td>68</td>
-<td>None</td>
+<td></td>
 </tr>
 <tr>
 <td>69</td>
-<td>None</td>
+<td></td>
 </tr>
 <tr>
 <td>70</td>
@@ -300,7 +300,7 @@ Recognizable List
 </tr>
 <tr>
 <td>71</td>
-<td>None</td>
+<td></td>
 </tr>
 <tr>
 <td>72</td>
@@ -348,7 +348,7 @@ Recognizable List
 </tr>
 <tr>
 <td>83</td>
-<td>None</td>
+<td></td>
 </tr>
 <tr>
 <td>84</td>
