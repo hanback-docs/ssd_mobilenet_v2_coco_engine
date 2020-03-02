@@ -1,5 +1,5 @@
 # ssd_mobilenet_v2_coco_engine
-This file is an object detection model for PyTorch.
+This file is an object detection model for TensorRT.
 <br style="font-size=0.5em">Source : Nvidia AI IoT Jetbot
 <br><a href="https://drive.google.com/file/d/1Y76hPYgDdAm7F88a_HYv6kpS8Ysolgmt/view?usp=sharing">Download</a>
 
